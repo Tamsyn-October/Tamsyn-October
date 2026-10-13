@@ -1,51 +1,58 @@
-## Hi 👋, I'm Tamsyn  
-  
-<a href="https://github.com/tamsyn-october" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<div align="center">
+
+# Hi, I'm Tamsyn 👋
+
+### Business Operations · Data & Reporting · Power BI
+
+Turning data and technology into practical business solutions.
+
+<br>
+
+<img src="https://img.shields.io/badge/Power%20BI-PL--300%20Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+
+<img src="https://img.shields.io/badge/Azure-AZ--900%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals">
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/tamsyn-october-1932361a1/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
-<a href="https://linkedin.com/in/tamsyn-october" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://github.com/Tamsyn-October">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub">
 </a>
-<a href="https://www.facebook.com/Tamsyn Salmons II" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/tamsynoctober" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
 
-<br/>  
+</div>
 
+---
 
-### I got into IT as a self-taught front-end developer now pivoting towards data analytics.    
- 🌱I'm currently building on data projects.  
-  
+### 👋 About me
 
- 👩‍🎓 I graduated with a Bachelors in Project Management & currently work in FinTech.  
-  
+I'm interested in the intersection of business, technology and data, particularly how reporting and analytics can help improve processes and support better business decisions.
 
-💬 I'm looking to collaborate on projects.  
-  
+### 🧰 Tools & Technologies
 
-⚡ Fun fact: I love sudoku.  
-  
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/SSMS-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio">
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery">
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" alt="HubSpot">
+</p>
 
+### 📂 Featured Project
 
-## Languages and Tools  
-<div align="left">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>    
-</div>  
+☕ **[Maven Roasters — Coffee Shop Sales Analysis](https://github.com/Tamsyn-October)**
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=tamsyn-october&show_icons=true&count_private=true&hide_border=true" align="left" />  
+*Excel · SQL · Power BI*
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamsyn-october&hide_border=true&layout=compact" align="left" />  
+---
 
-<br/>  
-<br/>  
+<div align="center">
 
+*Always learning and building.*
+
+</div>
