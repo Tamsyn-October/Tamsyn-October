@@ -17,11 +17,11 @@
 <br/>  
 
 
-### I’m a self-taught front-end web developer.    
- 🌱I'm currently learning React.  
+### I got into IT as a self-taught front-end developer now pivoting towards data analytics.    
+ 🌱I'm currently building on data projects.  
   
 
- 👩‍🎓 I'm a BCom Graduate.  
+ 👩‍🎓 I graduated with a Bachelors in Project Management & currently work in FinTech.  
   
 
 💬 I'm looking to collaborate on projects.  
