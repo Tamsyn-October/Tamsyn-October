@@ -45,7 +45,7 @@ I'm interested in the intersection of business, technology and data, particularl
 
 ### 📂 Featured Project
 
-☕ **[Maven Roasters — Coffee Shop Sales Analysis](https://github.com/Tamsyn-October)**
+☕ **[Maven Roasters — Coffee Shop Sales Analysis](https://github.com/Tamsyn-October/maven-coffee-shop-sales-analysis)**
 
 *Excel · SQL · Power BI*
 
